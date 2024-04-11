@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Mander Portman Woodward"
-date: 2022-04
+date: 2022-04-10
 location: "London, United Kingdom"
 ---
 
